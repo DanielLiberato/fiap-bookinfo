@@ -24,4 +24,4 @@ O pipeline executa automaticamente os seguintes passos a cada push na branch `ma
 
 ## 📦 Como Rodar Localmente
 ```bash
-docker run -p 9080:9080 danielliberato/bookinfo-fiap:latest
+docker run -p 9080:9080 234325/bookinfo-fiap:latest
