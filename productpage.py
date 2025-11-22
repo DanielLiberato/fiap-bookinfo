@@ -69,7 +69,7 @@ def hello():
     </head>
     <body>
         <div class="card">
-            <h1>📚 Bookinfo</h1>
+            <h1>📚 Bookinfo TESTE 2</h1>
             <h2>Product Page Microservice</h2>
             
             <div class="status-badge">✅ Versão Estável: 1.0.0</div>
