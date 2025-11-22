@@ -29,9 +29,9 @@ jobs:
 
       - name: Unit Tests
         run: |
-          echo "Executando testes unitários..."
-          # Aqui rodaria o pytest real
-          echo "✅ Unit Tests Approved"
+          echo "Executando testes unitários REAIS com Unittest..."
+          python -m unittest test_app.py
+          echo "✅ Testes de integração de rota aprovados."
 
   # JOB 2: Construção e Entrega (Build, Push, Security)
   build-delivery:
