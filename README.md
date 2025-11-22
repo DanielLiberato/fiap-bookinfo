@@ -1,6 +1,6 @@
 # 🚀 FIAP - DevOps Pipeline (Bookinfo)
 
-![CI/CD Status](https://github.comDanielLiberato/fiap-bookinfo/actions/workflows/pipeline.yml/badge.svg)
+![CI/CD Status](https://github.com/DanielLiberato/fiap-bookinfo/actions/workflows/pipeline.yaml/badge.svg)
 
 Entrega do trabalho de **Intelligent CI/CD Pipelines**. Este projeto implementa um pipeline automatizado para a aplicação *Bookinfo ProductPage*.
 
